@@ -1,4 +1,4 @@
-/*
+﻿/*
  * QtRoundProgressBar - a circular progress bar Qt widget.
  *
  * Sintegrial Technologies (c) 2015-now
@@ -38,6 +38,7 @@
 #include "QtRoundProgressBar.h"
 
 #include <QtGui/QPainter>
+#include<QPainterPath>
 
 QtRoundProgressBar::QtRoundProgressBar(QWidget *parent) :
     QWidget(parent),

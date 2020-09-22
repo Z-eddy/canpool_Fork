@@ -1,4 +1,4 @@
-/***************************************************************************
+﻿/***************************************************************************
  **
  **  Copyright (C) 2019 MaMinJie <canpool@163.com>
  **  Contact: https://github.com/canpool
@@ -22,6 +22,7 @@
 
 #include <QStandardItemModel>
 #include <QPainter>
+#include<QPainterPath>
 
 QtNavTreeView::QtNavTreeView(QWidget *parent)
     : QTreeView(parent),

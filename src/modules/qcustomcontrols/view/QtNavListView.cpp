@@ -1,4 +1,4 @@
-/***************************************************************************
+﻿/***************************************************************************
  **
  **  Copyright (C) 2019 MaMinJie <canpool@163.com>
  **  Contact: https://github.com/canpool
@@ -21,6 +21,7 @@
 #include "QtNavListView.h"
 
 #include <QPainter>
+#include<QPainterPath>
 #include <QFile>
 #include <QDomDocument>
 
